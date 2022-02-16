@@ -1,0 +1,6 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="F:\scoop\shims\pwsh.exe" />
+    <option name="myTabName" value="Local" />
+  </component>
+</application>
